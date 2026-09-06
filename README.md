@@ -302,7 +302,7 @@ Overall team achievement reached **96% of target**. 【2-e1ce3a】
 ## Dashboard
 
 
-![dashboard_all_data](images/dashboard_all_data.png)
+![dashboard_all_data](images/dashboard_main_view.png)
 
 
 
