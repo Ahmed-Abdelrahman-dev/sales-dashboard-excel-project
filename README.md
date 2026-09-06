@@ -295,42 +295,22 @@ Overall team achievement reached **96% of target**. 【2-e1ce3a】
 ## Data Model
 
 
-<p align="center">
-
-	<img src="images/data_model.png" width="400">
-
-</p>
+![data model] (images/data_model.png)
 
 
 
 ## Dashboard
 
 
-
-<p align="center">
-
-	<img src="images/dashboard_all_data.png" width="400">
-
-</p>
+![dashboard all data] (images/dashboard_all_data.png)
 
 
 
-<p align="center">
-
-	<img src="images/dashboard_central_region.png" width="400">
-
-</p>
+![dashboard central region] (images/dashboard_central_region.png)
 
 
 
-<p align="center">
-
-	<img src="images/dashboard_computers_category.png" width="400">
-
-</p>
-
-
-
+![dashboard computers category] (images/dashboard_computers_category.png)
 
 
 \---
