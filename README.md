@@ -4,7 +4,7 @@
 
 This project demonstrates an end-to-end sales analytics solution built entirely in Microsoft Excel using Power Query, Power Pivot, DAX, Pivot Tables, and an interactive dashboard. The project begins with intentionally dirty data, applies a structured cleaning and modeling process, and delivers actionable business insights through an executive-style dashboard. 【1-567be6】【2-e1ce3a】
 
-\---
+---
 
 ## Project Objectives
 
@@ -14,7 +14,7 @@ This project demonstrates an end-to-end sales analytics solution built entirely 
 * Create interactive Pivot Tables and dashboard visualizations.
 * Analyze sales performance across products, regions, channels, and salespeople. 【1-567be6】【2-e1ce3a】
 
-\---
+---
 
 ## Skills Demonstrated
 
@@ -49,7 +49,7 @@ This project demonstrates an end-to-end sales analytics solution built entirely 
 * Interactive Slicers
 * Executive Dashboard Design 【1-567be6】【2-e1ce3a】
 
-\---
+---
 
 # Dataset Structure
 
@@ -68,7 +68,7 @@ Contains transactional sales data including:
 * SalespersonKey
 * Quantity
 
-\---
+---
 
 ## Dimension Tables
 
@@ -108,7 +108,7 @@ Contains transactional sales data including:
 
 The model follows a Star Schema design with FactSalesData at the center connected to all dimension tables through one-to-many relationships.
 
-\---
+---
 
 # Data Cleaning Process
 
@@ -143,7 +143,7 @@ A structured data quality assessment was performed before developing the dashboa
 * Missing sales targets were imputed based on Job Title business rules.
 * Tenure Groups were derived from HireDate for workforce performance analysis. 【1-567be6】
 
-\---
+---
 
 # DAX Measures
 
@@ -201,7 +201,7 @@ Variance :=
 \\\[Total Revenue] - \\\[Total Target]
 ```
 
-\---
+---
 
 # Dashboard KPIs
 
@@ -212,7 +212,7 @@ The dashboard reports the following key metrics:
 * **Total Quantity Sold:** 5,528
 * **Target Achievement:** 96% 【2-e1ce3a】
 
-\---
+---
 
 # Dashboard Analysis
 
@@ -251,7 +251,7 @@ Top products by revenue:
 4. Laptop Air 13 ($265.5K)
 5. Ultrawide Monitor ($214.7K) 【2-e1ce3a】
 
-\---
+---
 
 # Salesperson Performance
 
@@ -275,7 +275,7 @@ Top products by revenue:
 
 Overall team achievement reached **96% of target**. 【2-e1ce3a】
 
-\---
+---
 
 # Tools Used
 
@@ -288,32 +288,32 @@ Overall team achievement reached **96% of target**. 【2-e1ce3a】
 * Slicers
 * Timeline Controls 【2-e1ce3a】
 
-\---
+---
 
 # Dashboard Preview
 
 ## Data Model
 
 
-![data model] (images/data_model.png)
+![data_model](images/data_model.png)
 
 
 
 ## Dashboard
 
 
-![dashboard all data] (images/dashboard_all_data.png)
+![dashboard_all_data](images/dashboard_all_data.png)
 
 
 
-![dashboard central region] (images/dashboard_central_region.png)
+![dashboard_central_region](images/dashboard_central_region.png)
 
 
 
-![dashboard computers category] (images/dashboard_computers_category.png)
+![dashboard_computers_category](images/dashboard_computers_category.png)
 
 
-\---
+---
 
 
 
@@ -326,7 +326,7 @@ Overall team achievement reached **96% of target**. 【2-e1ce3a】
 * **Gaming Laptop** was the highest revenue-generating product. 【2-e1ce3a】
 * Team performance reached **96% of target**, with several salespeople exceeding expectations. 【2-e1ce3a】
 
-\---
+---
 
 *This project was created to demonstrate practical Excel Business Intelligence skills, including data cleaning, dimensional modeling, DAX calculations, and dashboard development.*
 
